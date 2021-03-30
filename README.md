@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**garcia13/garcia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Module 1
+This was a text based adventure project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+// this sets an empty array variable //
+let arr = []
+```
+
+## Module 2
+This was is a word guessing game called Snowman
+
+```javascript
+// requires readlinesync in the javascript //
+const readline = require('readline-sync');
+```
