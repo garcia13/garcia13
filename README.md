@@ -16,3 +16,7 @@ This was is a word guessing game called Snowman
 // requires readlinesync in the javascript //
 const readline = require('readline-sync');
 ```
+
+## Adding Image
+
+![cat image](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
